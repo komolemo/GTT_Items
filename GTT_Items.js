@@ -7,7 +7,7 @@ import {
     Game_ItemSlot,
     Game_ItemSlotContainer,
     setupGame
-} from "./GTT_Items_Game.js";
+} from "./GTT_Items_Objects.js";
 import {
     Window_StackItemList,
     Window_HotBar,
